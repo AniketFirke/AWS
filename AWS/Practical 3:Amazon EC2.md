@@ -208,5 +208,20 @@ flowchart LR
 
 > **An EC2 virtual machine was successfully launched, accessed through SSH, and configured as a web server.**
 
-```
-```
+<div align="center">
+
+# 🎉 Practical 3 Completed Successfully
+
+---
+
+### 🖥️ AWS EC2 | M.Tech CSE Practical
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Virtual-Machine-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache-Running-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Practical-Completed-success?style=flat-square" />
+</p>
+
+</div>
+
