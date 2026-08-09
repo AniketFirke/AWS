@@ -234,15 +234,28 @@ flowchart LR
               ╰─────────────────────╯
 ```
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
-
 ---
 
 # 📝 Result
 
 > **An EBS volume was successfully created, attached to EC2, formatted, mounted, and used for data storage.**
+<div align="center">
 
+# 🎉 Practical 4 Completed Successfully
+
+---
+
+### 💾 AWS EBS | M.Tech CSE Practical
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-EBS-orange?style=flat-square&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Storage-gp3-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Volume-10%20GiB-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Practical-Completed-success?style=flat-square" />
+</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
+</div>
