@@ -1,6 +1,3 @@
-Below is a **modern, animated, GitHub-ready `README.md`** for Practical 2, matching the style of Practical 1 and including architecture diagrams, workflow, verification, troubleshooting, screenshots, and security best practices.
-
-````markdown
 <div align="center">
 
 # ☁️ AWS VPC + EC2 Web Server — Practical 2
@@ -71,7 +68,6 @@ This practical creates the following AWS infrastructure:
                │
                ▼
            🌍 Internet
-````
 
 ---
 
@@ -1143,18 +1139,3 @@ style H fill:#4caf50,color:#fff
 
 </div>
 ```
-
-### ✨ Included in this version
-
-* 🌐 **Modern AWS-themed README UI**
-* 🎨 Animated header/footer
-* 🏗️ Complete **VPC → Subnet → IGW → Route Table → EC2 → Apache** architecture
-* 🔄 Step-by-step practical workflow
-* 🛡️ Security Group configuration
-* 🔐 SSH commands
-* 🌍 Apache installation and testing
-* 🧪 Verification checklist
-* ⚠️ Troubleshooting section
-* 📸 Complete screenshot checklist for your **M.Tech CSE practical record**
-* 📊 Final configuration table
-* 📈 Mermaid architecture and learning-flow diagrams
