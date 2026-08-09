@@ -198,10 +198,6 @@ flowchart LR
 └──────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
-
 ---
 
 # 📝 Result
@@ -222,6 +218,8 @@ flowchart LR
   <img src="https://img.shields.io/badge/Apache-Running-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Practical-Completed-success?style=flat-square" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
+</div>
 </div>
 
