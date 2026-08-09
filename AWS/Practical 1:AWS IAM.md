@@ -1,6 +1,4 @@
-Absolutely. Below is a **modern, GitHub-ready `README.md`** for **Practical 1 – AWS IAM**, with a polished UI/UX style, animated sections using GitHub-supported Markdown/HTML, Mermaid architecture, badges, cards, tables, and a practical step-by-step flow.
 
-````markdown
 <div align="center">
 
 # ☁️ AWS IAM — Practical 1
@@ -69,7 +67,6 @@ IAM Policy
 ☁️ WHAT RESOURCE?
    ↓
 AWS Services
-````
 
 ---
 
