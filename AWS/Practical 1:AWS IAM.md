@@ -67,7 +67,7 @@ IAM Policy
 ☁️ WHAT RESOURCE?
    ↓
 AWS Services
-
+```
 ---
 
 # 🏗️ IAM Architecture
