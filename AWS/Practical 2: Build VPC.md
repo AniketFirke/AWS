@@ -1106,24 +1106,6 @@ style H fill:#4caf50,color:#fff
 
 # 🎉 Practical 2 Completed Successfully
 
-```text
-🌐 VPC
-   ↓
-📦 Public Subnet
-   ↓
-🚪 Internet Gateway
-   ↓
-🛣️ Route Table
-   ↓
-🛡️ Security Group
-   ↓
-🖥️ EC2
-   ↓
-🌐 Apache
-   ↓
-🎉 Web Server
-```
-
 ### ☁️ AWS VPC + EC2 | M.Tech CSE Practical
 
 <p>
@@ -1138,4 +1120,3 @@ style H fill:#4caf50,color:#fff
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
-```
