@@ -68,7 +68,7 @@ This practical creates the following AWS infrastructure:
                │
                ▼
            🌍 Internet
-
+```
 ---
 
 # 🏗️ AWS Architecture
